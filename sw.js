@@ -1,5 +1,11 @@
-const CACHE_NAME = 'aks-it-care-v1';
-const ASSETS = ['./index.html', './logo.png', './icon-192.png', './icon-512.png', './manifest.json'];
+const CACHE_NAME = 'aks-it-care-v2';
+const ASSETS = [
+  '/AK-S-IT-CARE/index.html',
+  '/AK-S-IT-CARE/logo.png',
+  '/AK-S-IT-CARE/icon-192.png',
+  '/AK-S-IT-CARE/icon-512.png',
+  '/AK-S-IT-CARE/manifest.json'
+];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
