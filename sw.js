@@ -1,4 +1,4 @@
-const CACHE_NAME = 'aks-it-care-v2';
+const CACHE_NAME = 'aks-it-care-v8';
 const ASSETS = [
   '/AK-S-IT-CARE/index.html',
   '/AK-S-IT-CARE/logo.png',

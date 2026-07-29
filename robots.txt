@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://franktechnician.github.io/AK-S-IT-CARE/sitemap.xml
